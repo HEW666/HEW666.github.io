@@ -1,4 +1,4 @@
-![image](https://github.com/HEW666/HEW666.github.io/assets/67474081/dfa439b6-024d-439d-83bf-a23946f7b45f)
+https://github.com/HEW666/HEW666.github.io/assets/67474081/dfa439b6-024d-439d-83bf-a23946f7b45f
 腾讯ARC实验室推出了一款名为ARC的系列AI图片处理工具，这是一个免费的AI实验项目，提供人像修复、人像抠图和动漫增强三项功能。
 
 人像修复：用户可以上传有噪点的老照片或者模糊的人脸照片，ARC能一键修复，恢复清晰度。
